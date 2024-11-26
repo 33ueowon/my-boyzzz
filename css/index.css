@@ -165,7 +165,7 @@ body {
             height: auto;
         }
     }
-    @media screen and (min-width: 768px) and (max-width: 1024px) {
+    @media screen and (min-width: 1180px) and (max-width: 1366px) {
         .main-img {
             flex-direction: row; /* 이미지를 가로로 정렬 유지 */
             justify-content: space-around;
