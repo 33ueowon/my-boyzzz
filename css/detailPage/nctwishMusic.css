@@ -6,6 +6,9 @@ body {
     height: 100vh; /* 전체 화면 높이를 차지하도록 설정 */
 }
 
+a {
+    text-decoration: none;
+}
 .back-img {
     position: fixed;
     width: 100vw; /* 화면 너비에 맞춤 */

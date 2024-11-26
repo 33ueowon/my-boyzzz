@@ -13,7 +13,9 @@ body {
     left: 0;
     z-index: -1; /* 배경 이미지를 뒤로 보내기 */
 }
-
+a {
+    text-decoration: none;
+}
 /* NCT WISH 텍스트 중앙 정렬 */
 .enhypen-header {
     display: flex;

@@ -4,7 +4,9 @@ body {
     margin: 0;
     font-family: 'Cafe24Meongi-W-v1.0';
 }
-
+a {
+    text-decoration: none;
+}
 .back-img {
     position: absolute;
     width: 100%;
